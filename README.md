@@ -16,7 +16,7 @@ Instructions:
 
 Ideally, you want "NORD hide during windows start", and "hide toggle" starting at the same time. "Hide during windows start" will close itself after doing whjat it should. Make sure you have autoconnect on. then you can hit f9 to show nordvpn.
 
-For scheduling windows start:
+For scheduling with windows start:
 - search windows for "task scheduler" or "Create basic task"  
 - "when I log on" 
 - add exe "hide on windows start" 
