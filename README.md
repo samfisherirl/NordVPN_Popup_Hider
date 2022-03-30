@@ -8,7 +8,7 @@ https://github.com/samfisherirl/NordVPN_Popup_Hider/releases/download/v1.0/NordV
 Download Rar 
 https://github.com/samfisherirl/NordVPN_Popup_Hider/releases/download/v1.0/NordVPN_Popup_Hider.rar
 
-NordVPN_Popup_Hider, toggle NordVPN Update popups, automatically hide on windows start.
+"NordVPN_Popup_Hider" toggles NordVPN Update popups, "automatically hide on windows start" hides 1 time per windows logon.
 
 Instructions:
 - "NordVPN Hide Toggle" hides and shows NordVPN with the F9 key.   
