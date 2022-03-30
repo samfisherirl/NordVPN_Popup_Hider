@@ -1,6 +1,8 @@
 
 #MaxThreadsPerHotkey, 2
 
+
+
 F9::
 T := !T
 If T
@@ -9,4 +11,3 @@ else
  WinHide, NordVPN
 return
 
- 
